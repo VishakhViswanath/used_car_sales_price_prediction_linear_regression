@@ -51,7 +51,7 @@ The dataset consists of the following features:
 
 @. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/used_car_sales_price_prediction_linear_regression.git
+   git clone https://github.com/VishakhViswanath/used_car_sales_price_prediction_linear_regression.git
 
 Results
 
