@@ -49,7 +49,17 @@ The dataset consists of the following features:
 
 ## How to Run the Code
 
-1. Clone the repository:
+@. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/used_car_sales_price_prediction_linear_regression.git
+
+Results
+
+The Linear Regression model built in this project achieved an R² score of 75%, indicating a good fit to the data. The model successfully predicts used car prices based on the historical data provided. Further improvements can be made by exploring more advanced regression techniques or using additional features.
+Conclusion
+
+This project demonstrates how to apply basic machine learning techniques, including Linear Regression, to predict car prices based on various car specifications. The results are promising, and further refinements to the model could improve predictive accuracy.
+
+    Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+   
    
